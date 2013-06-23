@@ -1,2 +1,0 @@
-graphicscove.github.io
-======================
