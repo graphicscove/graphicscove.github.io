@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	border: 18px solid #fff;
+}
+
+a,
+a:hover {
+	color: #4382C5;
+}
+
+section {
+	background: #111;
+}
+
+.content {
+	position: absolute;
+	top: 35%;
+	left: 15%;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	font-size: 50px;
+	margin-bottom: 36px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	font-size: 18px;
+    line-height: 1.5;
+}
